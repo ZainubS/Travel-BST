@@ -1,0 +1,50 @@
+san diego|california|beach|summer|plane|200
+anaheim|california|disneyland|all year|plane|400
+universal city|california|all year|universal studios|plane|2000
+seattle|washington|mt rainier|summer|drive|150
+seattle|washington|public market|all year|drive|50
+willow beach|arizona|half day emerald cove kayak tour|summer|plane|200
+lechee|arizona|lower antelope canyon|summer|plane|100
+grand canyon|arizona|helicopter flight|summer|plane|100
+phoenix|arizona|hot air ballon flight over phoenix|summer|plane|50
+bryce|utah|hiking in bryce canyon national park|all year|drive or plane|20
+moab|utah|arches national park|summer|drive or plane|300
+austin|texas|bat congregation|spring|plane|60
+boston|massachusetts|faneuil hall|summer|boat|30
+new orleans|louisiana|st. louis cathedral|early spring|bike|30
+san francisco|california|golden gate bridge|summer|plane|0
+chicago|illinois|the amazing art museum|warm months|plane|20
+arches|utah|the crazy dunes and spires|all year|car|100
+washington dc|washington dc|the national archives museum|july|plane|50
+new york|new york|central park|spring|car|10
+miami|florida|beaches|all year|plane|0
+bend|oregon|the gorgeous nature around the city|all year|walk|0
+stanley|idaho|alice lake|spring|car|0
+yellowstone|wyoming|ol faithful, lamarvalley|all year|car|50
+portland|oregon|multnomah falls|all year|car|20
+mt hood|oregon|zig zag trail|summer|car|0
+atlanta|georgia|cocola factory|all year|car|30
+portland|oregon|peacock lane|winter|car|10
+orlando|florida|seaworld|summer|plane|200
+orlando|florida|disneyworld|all year|plane|500
+hood river|oregon|sight seeing|summer|car|10
+new orleans|louisiana, united states|jackson square|all year|plane|5
+albuquerque|new mexico|hot air balloon ride|summer|plane|40
+seaside|oregon|seaside beach|summer|drive|0
+chicago|illinois|the art institute of chicago|all year|plane|40
+eugene|oregon|visit universities|spring|drive|0
+los angeles|california|rodeo drive|summer|plane|20
+san jose|california|jdm car meet|summer|drive|50
+new york city|new york|central park|all year|plane|5
+las vegas|nevada|las vegas strip|summer|plane|60
+littleton|colorado|chatfield state park|all year|car|25
+key largo|florida|playa largo resort|summer|plane|500
+new hope|pennsylvania|visit shops|all year|drive|100
+sante fe|new mexico|galleries|fall|plane|30
+kansas city|missouri|barbecue resturaunts|all year|plane|120
+jackson|wyoming|outdoor adventures|spring|plane|50
+napa valley|california|wineries|spring|car|70
+indianapolis|indiana|children museums|all year|car|40
+hawaii|hawaii|exotic beaches|summer|plane|250
+minneapolis|minnesota|walker art center|fall|drive|70
+manchester|vermont|green mountains|fall|drive|30
